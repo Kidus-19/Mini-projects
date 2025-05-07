@@ -1,4 +1,4 @@
-# Mini Projects
+Mini Projects
   => Weather App
   => Fitness Tracker
 ## Overview
