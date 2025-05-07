@@ -6,6 +6,7 @@ This repository contains a collection of mini projects built with various techno
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Project List](#project-list)
+  => Weather App
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
